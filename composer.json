@@ -3,7 +3,7 @@
     "name": "vicotec/dummy",
     "type": "dummy",
     "description": "Dummy bundle for name reservation",
-    "license": "LGPL-3.0-or-later",
+    "license": "GNU General Public License v3.0",
     "authors": [
         {
             "name": "ViCoTec",
