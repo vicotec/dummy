@@ -1,0 +1,20 @@
+  
+{
+    "name": "vicotec/dummy",
+    "type": "dummy",
+    "description": "Dummy bundle for name reservation",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "ViCoTec",
+            "homepage": "https://github.com/vicotec"
+        },
+        {
+            "name": "Contao Community",
+            "homepage": "https://contao.org/contributors"
+        }
+    ],
+    "require": {
+        "php": "^7.2 || ^8.0"
+    }
+}
